@@ -1,0 +1,15 @@
+h1{
+  font-size: 100px;
+}
+
+
+/******************CLASS SELECTORS*****************/
+.bacon{
+  background-color: red;
+}
+
+.batata{
+  background-color: green;
+}
+
+/*****************ID SELECTORS********************/
