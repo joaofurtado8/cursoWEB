@@ -33,6 +33,18 @@ p{
   line-height: 1.5;
 }
 
+/* Section */
+
+.colored-section{
+  background-color: #ff4c68;
+  color: white;
+}
+
+.white-section{
+  background-color: white;
+
+}
+
 
 /* Navigation Bar */
 
@@ -67,8 +79,6 @@ p{
 
 /* Title Section */
 #title{
-  background-color: #ff4c68;
-  color: white;
   text-align: left;
 }
 
@@ -80,7 +90,6 @@ p{
 
 #features{
   padding:7% 15%;
-  background-color: white;
   position: relative;
   z-index: 1;
 }
@@ -100,9 +109,7 @@ p{
 /* Testimonial Section */
 
 #testimonials{
-  padding: 7% 15%;
   background-color: #ef8172;
-  color: white;
 }
 
 .testimonial-text{
@@ -144,10 +151,7 @@ p{
 
 /* CTA Section */
 
-#cta{
-  background-color: #ff4c68;
-  color: #fff;
-}
+
 
 /* Footer Section */
 
